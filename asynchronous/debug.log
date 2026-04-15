@@ -10,3 +10,23 @@ INFO 2026-04-15 13:20:06,677 Dashboard
 INFO 2026-04-15 13:20:10,679 Dashboard data fetched in 4.002145528793335s
 INFO 2026-04-15 13:33:45,923 Dashboard
 INFO 2026-04-15 13:33:48,382 Dashboard data fetched in 2.4588310718536377s
+INFO 2026-04-15 13:37:48,934 Dashboard
+INFO 2026-04-15 13:37:53,899 Dashboard data fetched in 4.965726137161255s
+INFO 2026-04-15 17:52:32,394 Dashboard
+INFO 2026-04-15 17:52:34,900 Dashboard data fetched in 2.5055131912231445s
+INFO 2026-04-15 17:59:57,202 Dashboard
+INFO 2026-04-15 18:00:00,268 Dashboard data fetched in 3.066511631011963s
+INFO 2026-04-15 18:00:24,941 Dashboard
+INFO 2026-04-15 18:00:30,896 Dashboard data fetched in 5.95440936088562s
+INFO 2026-04-15 18:00:55,429 Dashboard
+ERROR 2026-04-15 18:00:56,170 Error feching data from https://newsapi.org/v2/everything?q=Lahore&apiKey=99a24b9d5f6f478ba1b0b9d12b125323 | 'coroutine' object has no attribute 'json'
+ERROR 2026-04-15 18:00:56,180 Error feching data from https://api.weatherapi.com/v1/current.json?key=52fe6c8181ad44a291351150261504&q=Lahore | 'coroutine' object has no attribute 'json'
+INFO 2026-04-15 18:00:56,204 Dashboard data fetched in 0.7750966548919678s
+INFO 2026-04-15 18:02:20,096 Dashboard
+ERROR 2026-04-15 18:02:20,790 Error feching data from https://newsapi.org/v2/everything?q=Lahore&apiKey=99a24b9d5f6f478ba1b0b9d12b125323 | 'coroutine' object has no attribute 'json'
+ERROR 2026-04-15 18:02:20,795 Error feching data from https://api.weatherapi.com/v1/current.json?key=52fe6c8181ad44a291351150261504&q=Lahore | 'coroutine' object has no attribute 'json'
+INFO 2026-04-15 18:04:51,116 Dashboard
+ERROR 2026-04-15 18:05:02,588 Error feching data from https://newsapi.org/v2/everything?q=Lahore&apiKey=99a24b9d5f6f478ba1b0b9d12b125323 | 
+INFO 2026-04-15 18:05:02,590 Dashboard data fetched in 11.473860263824463s
+INFO 2026-04-15 18:08:07,982 Dashboard
+INFO 2026-04-15 18:08:11,720 Dashboard data fetched in 3.7383711338043213s
