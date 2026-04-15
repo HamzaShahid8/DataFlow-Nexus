@@ -18,7 +18,7 @@ async def fetch_data(client, url): # async function ko asynchronous bnata h
     except Exception as e:
         logger.error(f"Error feching data from {url} | {str(e)}")
         return {'error': 'API failed'}
-
+    
 async def Dashboard(request):
     start_time = time.time()
     logger.info('Dashboard')
